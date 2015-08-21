@@ -1,0 +1,32 @@
+2015-07-30 06:18:53,013: INFO  :Mylog created!
+2015-07-30 06:18:53,015: ERROR  : error allen
+2015-07-30 06:18:53,016: WARN  :warn allen
+2015-07-30 06:20:43,842: INFO  :Mylog created!
+2015-07-30 06:20:43,845: ERROR  : error allen
+2015-07-30 07:03:45,214: INFO  :Mylog created!
+2015-07-30 07:03:45,216: ERROR  : error allen
+2015-07-30 07:03:45,218: WARN  :warn allen
+2015-07-30 07:10:06,060: INFO  :Mylog created!
+2015-07-30 07:10:06,062: ERROR  : error allen ##__FILE__:__func__:20##
+2015-07-30 07:10:06,063: WARN  :warn allen ##__FILE__:__func__:21##
+2015-07-30 07:10:23,697: INFO  :Mylog created!
+2015-07-30 07:10:23,700: ERROR  : error allen ##__FILE__:__func__:20##
+2015-07-30 07:10:23,701: WARN  :warn allen ##__FILE__:__func__:21##
+2015-07-30 07:11:01,706: INFO  :Mylog created!
+2015-07-30 07:11:01,710: ERROR  : error allen ##logtest.cpp:main:20##
+2015-07-30 07:11:01,711: WARN  :warn allen ##logtest.cpp:main:21##
+2015-07-30 07:13:22,096: INFO  :Mylog created!
+2015-07-30 07:13:22,099: ERROR  : error allen ##logtest.cpp:main:20##
+2015-07-30 07:13:22,100: WARN  :warn allen ##logtest.cpp:main:21##
+2015-07-30 07:13:48,217: INFO  :Mylog created!
+2015-07-30 07:13:48,219: ERROR  : error allen ##logtest.cpp:main:20##
+2015-07-30 07:13:48,221: WARN  :warn allen ##logtest.cpp:main:21##
+2015-07-30 07:13:48,222: ERROR  :hello allen,func() called ##func.cpp:func:15##
+2015-07-30 07:15:34,304: INFO  :Mylog created!
+2015-07-30 07:15:34,306: ERROR  :error allen ##logtest.cpp:main:20##
+2015-07-30 07:15:34,308: WARN  :warn allen ##logtest.cpp:main:21##
+2015-07-30 07:15:34,309: ERROR  :hello allen,func() called ##func.cpp:func:15##
+2015-08-03 01:03:47,750: INFO  :Mylog created!
+2015-08-03 01:03:47,752: ERROR  :error allen ##logtest.cpp:main:20##
+2015-08-03 01:03:47,753: WARN  :warn allen ##logtest.cpp:main:21##
+2015-08-03 01:03:47,755: ERROR  :hello allen,func() called ##func.cpp:func:15##
